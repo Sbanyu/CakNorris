@@ -33,6 +33,9 @@ c. AndroidManifest.xml
 
 ## 7. CakNorris
 
+<img width="240" alt="Screenshot 2024-06-14 at 01 03 49" src="https://github.com/Sbanyu/CakNorris/assets/90142226/b18018c2-3ff0-4a63-9fde-3f86e1cdf05f">
+<img width="240" alt="Screenshot 2024-06-14 at 01 02 32" src="https://github.com/Sbanyu/CakNorris/assets/90142226/db0dd53a-ea4d-4bb4-ba96-1453af1e11f9">
+
 Aplikasi Android tentang Chuck Norris
 
 ## Deskripsi
